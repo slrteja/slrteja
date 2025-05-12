@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning React, Web3
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me +91 8328662169/surampuditeja@gmail.com
+- 📫 How to reach me +91 
 
 <!---
 slrteja/slrteja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
